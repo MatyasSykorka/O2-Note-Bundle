@@ -9,6 +9,7 @@
 \
 Next.js app for writing notes. You can edit, delete, set priority and finish them.
 \
+\
 In this project I used:
 ![Yarn](https://img.shields.io/badge/yarn-0e0e0e?style=for-the-badge&logo=yarn)
 \
