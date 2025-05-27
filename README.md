@@ -11,10 +11,10 @@ Next.js app for writing notes. You can edit, delete, set priority and finish the
 \
 In this project I used:
 \
-![Yarn](https://img.shields.io/badge/yarn-0e0e0e?style=for-the-badge&logo=yarn)
+![Yarn](https://img.shields.io/badge/yarn-9e0e0e?style=for-the-badge&logo=yarn)
 \
-![Next.JS](https://img.shields.io/badge/NextJS-0e0e0e?style=for-the-badge&logo=nextdotjs)
+![Next.JS](https://img.shields.io/badge/NextJS-9e0e0e?style=for-the-badge&logo=nextdotjs)
 \
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e0e0e?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9e0e0e?style=for-the-badge&logo=postgresql)
 \
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0e0e0e?style=for-the-badge&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-9e0e0e?style=for-the-badge&logo=tailwindcss)
